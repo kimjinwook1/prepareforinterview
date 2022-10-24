@@ -1,18 +1,19 @@
 # Sir.LOIN 소프트웨어 엔지니어 인터뷰 질문 목록
 
-- [항목별 질문 목록](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions)
-  - [경력 관리 및 협업](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-careers-collaboration)
-  - [운영체제 / 논리회로 일반](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-computer-systems)
-  - [네트워크](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-network)
-  - [데이터베이스](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-database)
-  - [자료 구조 및 알고리즘](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-data-structure-algorithm)
-  - [디자인 및 테스트](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-design-testing)
-  - [Java / JVM](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-java-jvm)
-  - [Kotlin](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-kotlin)
+[항문별 질문 목록](#항문별-질문-목록)  
 
-## [](https://github.com/kimjinwook1/prepareforinterview.adoc#%ED%95%AD%EB%AA%A9%EB%B3%84-%EC%A7%88%EB%AC%B8-%EB%AA%A9%EB%A1%9D)[항목별 질문 목록](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions)
+  - [경력 관리 및 협업](#경력-관리-및-협업)
+  - [운영체제 / 논리회로 일반](#운영체제-/-논리회로-일반)
+  - [네트워크](#네트워크)
+  - [데이터베이스](#데이터베이스)
+  - [자료 구조 및 알고리즘](#자료-구조-및-알고리즘)
+  - [디자인 및 테스트](#디자인-및-테스트)
+  - [Java / JVM](#Java-/-JVM)
+  - [Kotlin](#Kotlin)
 
-### [](https://github.com/kimjinwook1/prepareforinterview.adoc#%EA%B2%BD%EB%A0%A5-%EA%B4%80%EB%A6%AC-%EB%B0%8F-%ED%98%91%EC%97%85)[경력 관리 및 협업](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-careers-collaboration)
+## 항목별 질문 목록
+
+### 경력 관리 및 협업
 
 1. 설로인 입사 이후, 3년 뒤 후보자의 모습, 10년 뒤 후보자의 모습에 대해 말씀해주세요.
 
@@ -42,7 +43,7 @@
 
 14. Agile 이 대세라고 하는데, Agile 개발 방법론에 대한 본인의 생각을 말씀해 주세요. Agile 의 단점은 없습니까?
 
-### [](https://github.com/kimjinwook1/prepareforinterview.adoc#%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C--%EB%85%BC%EB%A6%AC%ED%9A%8C%EB%A1%9C-%EC%9D%BC%EB%B0%98)[운영체제 / 논리회로 일반](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-computer-systems)
+### 운영체제 / 논리회로 일반
 
 1. 컴퓨터는 10진수를 2진수로 바꿔서 계산합니다. 10진수를 2진수로 바꾸는 방법과, 그 반대 방법에 대해 설명해 주시기 바랍니다.
 
@@ -72,7 +73,7 @@
 
 14. 파이프(`|`) 란 무엇이고, 어떻게 동작하는지 설명해주세요.
 
-### [](https://github.com/kimjinwook1/prepareforinterview.adoc#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)[네트워크](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-network)
+### 네트워크
 
 1. Socket 으로 바로 통신하는 것 대비 HTTP 는 비효율적인데도 왜 많은 앱들은 HTTP 를 쓰는 걸까요?
 
@@ -90,7 +91,7 @@
 
 8. Socket 으로 웹 페이지를 크롤링하는 HTTP 클라이언트를 직접 구현해야 한다면, 어떻게 하시겠습니까?
 
-### [](https://github.com/kimjinwook1/prepareforinterview.adoc#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)[데이터베이스](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-database)
+### 데이터베이스
 
 1. noSQL 과 RDB 의 특징, 차이에 대해 말씀해주세요. 어느 상황에 어떤 데이터베이스를 쓰는게 좋겠습니까?
 
@@ -124,7 +125,7 @@
 
 16. (JPA 경험자 한정) JPA 의 `@Entity` 란 뭔가요? 도메인 객체와 Entity 객체를 각각 어떻게 정의하시겠습니까?
 
-### [](https://github.com/kimjinwook1/prepareforinterview.adoc#%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)[자료 구조 및 알고리즘](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-data-structure-algorithm)
+### 자료 구조 및 알고리즘
 
 1. 지금 사용하시는 스마트폰의 화면을 캡쳐하는 프로그램을 만들어야 한다면 어떻게 하시겠습니까?
 
@@ -156,7 +157,7 @@
 
 15. (JVM 경험자 한정) 배열과 `ArrayList`, `LinkedList` 의 차이점은 무엇인가요?
 
-### [](https://github.com/kimjinwook1/prepareforinterview.adoc#%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B0%8F-%ED%85%8C%EC%8A%A4%ED%8A%B8)[디자인 및 테스트](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-design-testing)
+### 디자인 및 테스트
 
 1. Singleton pattern 이란 무엇이고, 어떤 장점과 단점이 있을까요?
 
@@ -204,7 +205,7 @@
 
 23. 제작한 애플리케이션이 얼마나 사용자 친화적인지를 측정할 수 있는 방법이 있을까요?
 
-### [](https://github.com/kimjinwook1/prepareforinterview.adoc#java--jvm)[Java / JVM](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-java-jvm)
+### Java / JVM
 
 1. JVM 에서의 autoboxing 이란 어떤 현상을 말하는 걸까요?
 
@@ -245,7 +246,86 @@
       }
     }
     ```
-  
+    
+    ### 13번 답변 :
+    
+    1. Lazy Initialization게으른 초기화 -> 권장 하지 않음
+       
+       - 생성자를 private으로 만들어 외부에서 생성을 막음
+       
+       - synchronized 동기화를 활용해 스레드를 안전하게 만듦 -> 성능 저하 발생
+    
+    ```java
+    class MySingleton {
+    
+        private static MySingleton instance;
+    
+        public static synchronized MySingleton getInstance() {
+            if (instance == null) {
+                instance = new MySingleton();
+            }
+            return instance;
+        }
+    
+        private MySingleton() {
+        }
+    }
+    ```
+    
+    2. Lazy Initialization + Double-checked Locking
+       
+       - 1번과 달리 조건문으로 인스턴스의 존재 여부를 확인한 다음 두번 째 조건문에서 synchronized를 통해 동기화를 시켜 인스턴스를 생성
+       
+       - 1번에 비해 성능저하 완화
+    
+    ```java
+    class MySingleton {
+    
+        private static MySingleton instance;
+    
+        public static MySingleton getInstance() {
+            if (instance == null) {
+                synchronized (MySingleton.class) {
+                    if (instance == null) {
+                        instance = new MySingleton();
+                    }
+                }
+            }
+            return instance;
+        }
+    
+        private MySingleton() {
+        }
+    }
+    ```
+    
+    3. **Initalization on demand holder idiom(holder에 의한 초기화) ** -> 가장 많이 사용되는 일반적인 싱글톤 클래스 사용 방법
+       
+       - 클래스 안에 클래스(holder)를 두어 JVM 클래스 로더 매커니즘과 클래스가 로드되는 시점을 이용한 방법
+       
+       - 2번 방법을 사용하지 않는 이유는 개발자가 직접 동기화 문제에 대한 코드를 작성하면서 회피하려고 하면 프로그램 구조가 그만큼 복잡해지고 비용 문제가 발생할 수 있음.
+       
+       - 3번 방법은 JVM의 클래스 초기화 과정에서 보장되는 `원자적 특성`을 이용해 싱글톤의 토기화 문제에 대한 책임을 JVM에 떠넘기는걸 활용함
+       
+       - 클래스 안에 선언한 클래스인 holder에서 선언된 인스턴스는 static이기 떄문에 클래스 로딩시점에 한번만 호출된다. 또한 final을 사용해 다시 값이 할당되지 않도록 만드는 방식을 사용한 것
+    
+    ```java
+    class MySingleton {
+    
+        private static final class InstanceHolder {
+    
+            private static final MySingleton instance = new MySingleton();
+        }
+    
+        public static MySingleton getInstance() {
+            return InstanceHolder.instance;
+        }
+    
+        private MySingleton() {
+        }
+    }
+    ```
+
 14. java 9 이상에 도입된 추가 기능들 중 마음에 드는거 아무거나 하나만 설명해주세요.
 
 15. 민감한 정보를 String 으로 저장하는 것과, `char[]` 또는 `StringBuilder`/`StringBuffer` 같은 클래스로 저장하는 것은 어떤 차이가 있나요?
@@ -274,7 +354,7 @@
 
 27. 메소드에 `@Transactional` 을 붙이는 것과, `TransactionTemplate` 을 사용해 트랜잭션을 직접 제어하는 것에는 어떤 차이가 있나요? 어떤 방식을 더 선호하시는지 그 이유도 함께 설명해 주시기 바랍니다.
 
-### [](https://github.com/kimjinwook1/prepareforinterview.adoc#interview-questions-kotlin)
+### Kotlin
 
 1. Kotlin 으로 작성한 jvm target 코드는 숨은 비용이 있습니다. 어떤 숨은 비용을 말하는걸까요? 그럼에도 불구하고 Kotlin 을 써야 할까요?
 

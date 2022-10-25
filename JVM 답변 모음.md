@@ -1,5 +1,27 @@
 # Java/ JVM 답변 모음
 
+### 1번 답변:
+
+- autoboxing 이란 컴파일러가 primitive Data를 Object Data로 자동 변환하는 것이다.
+
+- unboxing이란 컴파일러가 Object Data를 primitive Data로 자동 변환하는 것이다.
+
+- primitive Data
+  
+  - byte, short, int, long, char, float, double, boolean
+  
+  - 아주 가벼운 데이터를 말한다.
+  
+  - **스택 메모리**에 머무른다.
+
+- Object Data
+  
+  - **실제 데이터는 힙메모리에 공유**하고 **레퍼런스만 스택 메모리**에 있다.
+
+- Wrapper Class
+  
+  - primitvie Data를 Object Data화 시킨 Class이다.
+
 ### 13번 답변 :
 
 1. Lazy Initialization게으른 초기화 -> 권장 하지 않음

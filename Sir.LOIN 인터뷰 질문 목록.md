@@ -2,14 +2,14 @@
 
 [질문 목록](#질문-목록)  
 
-  - [경력 관리 및 협업](#경력-관리-및-협업)
-  - [운영체제 및 논리회로 일반](#운영체제-및-논리회로-일반)
-  - [네트워크](#네트워크)
-  - [데이터베이스](#데이터베이스)
-  - [자료 구조 및 알고리즘](#자료-구조-및-알고리즘)
-  - [디자인 및 테스트](#디자인-및-테스트)
-  - [Java 및 JVM](#Java-및-JVM)
-  - [Kotlin](#Kotlin)
+- [경력 관리 및 협업](#경력-관리-및-협업)
+- [운영체제 및 논리회로 일반](#운영체제-및-논리회로-일반)
+- [네트워크](#네트워크)
+- [데이터베이스](#데이터베이스)
+- [자료 구조 및 알고리즘](#자료-구조-및-알고리즘)
+- [디자인 및 테스트](#디자인-및-테스트)
+- [Java 및 JVM](#Java-및-JVM)
+- [Kotlin](#Kotlin)
 
 ## 질문 목록
 
@@ -208,6 +208,26 @@
 ### Java 및 JVM
 
 1. JVM 에서의 autoboxing 이란 어떤 현상을 말하는 걸까요?
+   
+   - autoboxing 이란 컴파일러가 primitive Data를 Object Data로 자동 변환하는 것이다.
+   
+   - unboxing이란 컴파일러가 Object Data를 primitive Data로 자동 변환하는 것이다.
+   
+   - primitive Data
+     
+     - byte, short, int, long, char, float, double, boolean
+     
+     - 아주 가벼운 데이터를 말한다.
+     
+     - **스택 메모리**에 머무른다.
+   
+   - Object Data
+     
+     - **실제 데이터는 힙메모리에 공유**하고 **레퍼런스만 스택 메모리**에 있다.
+   
+   - Wrapper Class
+     
+     - primitvie Data를 Object Data화 시킨 Class이다.
 
 2. `interface` default implementation 이란 `abstract class` 를 상속받는 것과 기본 구현을 들고 있는 `interface` 를 `implements` 하는것은 어떤 차이가 있나요?
 
